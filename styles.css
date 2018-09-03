@@ -37,9 +37,9 @@ span {
 
 #box2 {
     background-color: beige;
-    position: relative;
-    top: -347px;
-    left: 170px;
+    position: absolute;
+    bottom: 377px;
+    left: 480px;
 }
 
 #box3 {
