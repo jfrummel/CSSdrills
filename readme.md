@@ -60,4 +60,5 @@ Take note at what styling applied to a class does to what was already applied to
 Rank each TV show you have (so all 5 h1’s), a rank of show1 would be the best. Have the rank be the id of each h1. At this point every h1 should have a class AND an id attribute.
 Apply styling using the id of each h1, give each a different color. Refresh the document and see how this type of styling changes what was already applied. Create 3 unordered lists, each with 5 items, have the first list be 5 friend's names, have the next be 5 places you want to travel, and have the last list be your favorite restaurants.
 Apply the same steps covered in the directions to play with the specificity of styling on each of these lists.
-Wrap each list in a div, give the div a border that is 2 pixels thick, have it be solid
+Wrap each list in a div, give the div a border that is 2 pixels thick, have it be solid and the color be black.
+Isn't styling fun? We know it can be tricky and tedious, but the more you practice, the better you'll get at it. After a while, you won't even think about it anymore :)
