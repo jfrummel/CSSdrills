@@ -30,3 +30,22 @@ span {
     font-weight: 700;
     color: yellow;
 }
+
+#box1 {
+    background-color: darkseagreen;
+}
+
+#box2 {
+    background-color: beige;
+    position: relative;
+    top: -347px;
+    left: 170px;
+}
+
+#box3 {
+    background-color: bisque;
+}
+
+#box4 {
+    background-color: deeppink;
+}
