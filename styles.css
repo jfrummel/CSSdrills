@@ -16,7 +16,7 @@ a {
     display: block;
     width: 20%;
     margin: 0 auto;
-    padding: 1px 55px 1px 55px;
+    padding: 1px 65px 1px 65px;
     border: 2px solid black;
     border-radius: 2em;
 }
@@ -54,5 +54,54 @@ span {
     background-color: black;
     position: relative;
     top: 95px;
-    left: -50px;
+    left: -55px;
+}
+
+h1 {
+    color: purple;
+}
+
+.tvShows1 {
+    color: greenyellow;
+}
+
+.tvShows2 {
+    color: red;
+}
+
+#show1 {
+    color: blue;
+}
+
+#show2 {
+    color: purple;
+}
+
+#show3 {
+    color: black;
+}
+
+#show4 {
+    color: green;
+}
+
+#show5 {
+    color: red;
+}
+
+.lists {
+    color: black;
+    border: 2px solid black;
+}
+
+#friends {
+    color: red;
+}
+
+#travel {
+    color: purple;
+}
+
+#restaurants {
+    color: black;
 }
