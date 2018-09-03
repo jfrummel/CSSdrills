@@ -16,7 +16,7 @@ a {
     display: block;
     width: 20%;
     margin: 0 auto;
-    padding: 1px 1px 1px 1px;
+    padding: 1px 55px 1px 55px;
     border: 2px solid black;
     border-radius: 2em;
 }
@@ -37,9 +37,7 @@ span {
 
 #box2 {
     background-color: beige;
-    position: absolute;
-    bottom: 377px;
-    left: 620px;
+    
 }
 
 #box3 {
@@ -48,4 +46,13 @@ span {
 
 #box4 {
     background-color: deeppink;
+}
+
+.img-child {
+    width: 35%;
+    height: 10%;
+    background-color: black;
+    position: relative;
+    top: 95px;
+    left: -50px;
 }
